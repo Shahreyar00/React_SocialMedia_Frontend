@@ -1,4 +1,4 @@
-### This repository contains code for frontend of a social media application.
+#### This repository contains code for frontend of a social media application.
 #### Visit: https://mesocial.netlify.app
 ````
 Stack used: React, Sass, and MaterialUI icons

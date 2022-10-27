@@ -1,7 +1,7 @@
 ### This repository contains code for frontend of a social media application.
 #### Visit: https://mesocial.netlify.app
 ````
-Stack used: React, Sass, and MaterialUI icons
+<a href="Stack used: React, Sass, and MaterialUI icons" />
 ````
 ****
 ![Screenshot (660)](https://user-images.githubusercontent.com/70688937/198362442-266bed88-b4f0-4da3-800e-e3dbcbc5402a.png)

@@ -88,6 +88,11 @@
                     gap: 10px;
                     padding-top: 80px;
 
+                      
+                    @include mobile{
+                        padding-top: 10px;
+                    }
+
                     span{
                         font-size: 30px;
                         font-weight: 500;
